@@ -6,6 +6,8 @@ Link: https://drive.google.com/file/d/1AstJwYZhiPUx-wKahwOxrTuJ7td5rLMi/view?usp
 How to cite: 
 Douglas Vitório, Ellen Souza, Lucas Martins et al. Building a Relevance Feedback Corpus for Legal Information Retrieval in the Real-Case Scenario of the Brazilian Chamber of Deputies, 13 July 2023, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-3150362/v1]
 
+Contact: damsv@cin.ufpe.br
+
 -----------------------------------------------------------------
 
 Contents:
