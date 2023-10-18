@@ -32,4 +32,9 @@ Contents:
    - date_created - the timestamp of feedback;
    - num_doc_feedback - number of documents judged for each query;
    - extra_results_size - size of the list of extra_results.
-   
+
+   The user_feedback attribute contains a dictionary with the following keys:
+   - id - the name of the document;
+   - class - the relevance level: "i" for irrelevant, "r" for very relevant, or "pr" for somewhat relevant (translated as “pouco relevante” in Portuguese);
+   - score - the BM25L score for that document;
+   - normalized_score - the score normalized between 0 and 1.
