@@ -14,7 +14,7 @@ Contents:
    -
    Dataset containing legislative proposals from the Brazilian Chamber of Deputies, with the following attributes:
    - code - the bill's ID;
-   - sig_tipo - the bill's type, from eight different ones: Recommendation (\textit{Indicação} - INC); Legislative Decree Project (\textit{Projeto de Decreto Legislativo} - PDL or PDC); Law Project (\textit{Projeto de Lei} - PL); Inspection and Control Proposal (\textit{Proposta de Fiscalização e Controle} - PFC); Complementary Law Project (\textit{Projeto de Lei Complementar} - PLP or PLC); Resolution Project (\textit{Projeto de Resolução} - PRC or PRN); Conversion Law Project (\textit{Projeto de Lei de Conversão} - PLV); and Constitutional Amendment Proposal (\textit{Proposta de Emenda Constituicional} - PEC);
+   - sig_tipo - the bill's type, from eight different ones: Recommendation (Indicação - INC); Legislative Decree Project (Projeto de Decreto Legislativo - PDL or PDC); Law Project (Projeto de Lei - PL); Inspection and Control Proposal (Proposta de Fiscalização e Controle - PFC); Complementary Law Project (Projeto de Lei Complementar - PLP or PLC); Resolution Project (Projeto de Resolução - PRC or PRN); Conversion Law Project (Projeto de Lei de Conversão - PLV); and Constitutional Amendment Proposal (Proposta de Emenda Constituicional - PEC);
    - name - the bill's name, informing its type, number, and year, e.g., "PL 5634/2019";
    - text_ementa - the bill's summary;
    - em_tramitacao - whether the bill is active or not;
