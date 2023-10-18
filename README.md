@@ -1,5 +1,5 @@
 # Ulysses-RFCorpus
-Relevance Feedback dataset for Legal Information Retrieval.
+Relevance Feedback corpus for Legal Information Retrieval.
 
 Link: https://drive.google.com/file/d/1AstJwYZhiPUx-wKahwOxrTuJ7td5rLMi/view?usp=share_link
 
