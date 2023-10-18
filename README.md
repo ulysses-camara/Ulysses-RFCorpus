@@ -1,0 +1,35 @@
+# Ulysses-RFCorpus
+Relevance Feedback dataset for Legal Information Retrieval.
+
+Link: https://drive.google.com/file/d/1AstJwYZhiPUx-wKahwOxrTuJ7td5rLMi/view?usp=share_link
+
+How to cite: 
+Douglas Vitório, Ellen Souza, Lucas Martins et al. Building a Relevance Feedback Corpus for Legal Information Retrieval in the Real-Case Scenario of the Brazilian Chamber of Deputies, 13 July 2023, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-3150362/v1]
+
+-----------------------------------------------------------------
+
+Contents:
+
+1. bills_dataset.csv
+   -
+   Dataset containing legislative proposals from the Brazilian Chamber of Deputies, with the following attributes:
+   - code - the bill's ID;
+   - sig_tipo - the bill's type, from eight different ones: Recommendation (\textit{Indicação} - INC); Legislative Decree Project (\textit{Projeto de Decreto Legislativo} - PDL or PDC); Law Project (\textit{Projeto de Lei} - PL); Inspection and Control Proposal (\textit{Proposta de Fiscalização e Controle} - PFC); Complementary Law Project (\textit{Projeto de Lei Complementar} - PLP or PLC); Resolution Project (\textit{Projeto de Resolução} - PRC or PRN); Conversion Law Project (\textit{Projeto de Lei de Conversão} - PLV); and Constitutional Amendment Proposal (\textit{Proposta de Emenda Constituicional} - PEC);
+   - name - the bill's name, informing its type, number, and year, e.g., "PL 5634/2019";
+   - text_ementa - the bill's summary;
+   - em_tramitacao - whether the bill is active or not;
+   - situacao - the bill's status at the moment, e.g., "awaiting reply", "awaiting dispatch", "awaiting submission to the Senate";
+   - text - the bill itself, in plain text;
+   - text_preprocessed - the bill's text pre-processed with the same techniques presented in Souza et al. (2021).
+  
+3. relevance_feedback_dataset.csv
+   -
+   Dataset containing queries, a list of retrieved documents and their relevance judgements, with the following attributes:
+   - id - the query's ID;
+   - query - the query's plain text;
+   - user_feedback - the record of the feedback given by the expert;
+   - extra_results - the list of relevant documents not retrieved by the model and provided by the expert;
+   - date_created - the timestamp of feedback;
+   - num_doc_feedback - number of documents judged for each query;
+   - extra_results_size - size of the list of extra_results.
+   
