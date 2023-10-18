@@ -35,6 +35,6 @@ Contents:
 
    The user_feedback attribute contains a dictionary with the following keys:
    - id - the name of the document;
-   - class - the relevance level: "i" for irrelevant, "r" for very relevant, or "pr" for somewhat relevant (translated as “pouco relevante” in Portuguese);
+   - class - the relevance level for the document: "i" for irrelevant, "r" for very relevant, or "pr" for somewhat relevant (translated as "pouco relevante" in Portuguese);
    - score - the BM25L score for that document;
    - normalized_score - the score normalized between 0 and 1.
