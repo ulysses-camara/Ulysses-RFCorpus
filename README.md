@@ -6,6 +6,24 @@ Link: https://drive.google.com/file/d/1AstJwYZhiPUx-wKahwOxrTuJ7td5rLMi/view?usp
 How to cite: 
 Vitório, D., Souza, E., Martins, L. et al. Building a relevance feedback corpus for legal information retrieval in the real-case scenario of the Brazilian Chamber of Deputies. Lang Resources & Evaluation (2024). https://doi.org/10.1007/s10579-024-09767-3
 
+BibTeX citation:
+```
+@article{Vitorio2024,
+author = {Vit{\'o}rio, Douglas
+and Souza, Ellen
+and Martins, Lucas
+and da Silva, N{\'a}dia F. F.
+and de Carvalho, Andr{\'e} Carlos Ponce de Leon
+and Oliveira, Adriano L. I.
+and de Andrade, Francisco Edmundo},
+title = {Building a relevance feedback corpus for legal information retrieval in
+the real-case scenario of the {B}razilian {C}hamber of {D}eputies},
+year = {2024},
+doi = {10.1007/s10579-024-09767-3},
+journal = {Language Resources and Evaluation}
+}
+```
+
 Contact: damsv@cin.ufpe.br
 
 -----------------------------------------------------------------
