@@ -4,7 +4,7 @@ Relevance Feedback corpus for Legal Information Retrieval.
 Link: https://drive.google.com/file/d/1AstJwYZhiPUx-wKahwOxrTuJ7td5rLMi/view?usp=share_link
 
 How to cite: 
-Douglas Vitório, Ellen Souza, Lucas Martins et al. Building a Relevance Feedback Corpus for Legal Information Retrieval in the Real-Case Scenario of the Brazilian Chamber of Deputies, 13 July 2023, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-3150362/v1]
+Vitório, D., Souza, E., Martins, L. et al. Building a relevance feedback corpus for legal information retrieval in the real-case scenario of the Brazilian Chamber of Deputies. Lang Resources & Evaluation (2024). https://doi.org/10.1007/s10579-024-09767-3
 
 Contact: damsv@cin.ufpe.br
 
